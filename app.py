@@ -252,7 +252,7 @@ with header_col1:
         st.title(f"Painel de Custos - {selected_project}")
 
 with header_col2:
-    st.image("./images/simbolo-favico.png", width=80)
+    st.image("./images/cropped-ico_primecontrol-378x378.png", width=80)
 
 
 # ====== Carregar dados ======
