@@ -242,11 +242,18 @@ st.sidebar.markdown(f"> {st.session_state['selected_project_click']}")
 
 selected_project = st.session_state["selected_project_click"]
 
-# ====== Título ======
-if selected_project == "Todos os projetos":
-    st.title("Painel de Custos - Todos os Projetos")
-else:
-    st.title(f"Painel de Custos - {selected_project}")
+# ====== Título + Logo ======
+header_col1, header_col2 = st.columns([8, 1])
+
+with header_col1:
+    if selected_project == "Todos os projetos":
+        st.title("Painel de Custos - Todos os Projetos")
+    else:
+        st.title(f"Painel de Custos - {selected_project}")
+
+with header_col2:
+    st.image("./images/simbolo-favico.png", width=80)
+
 
 # ====== Carregar dados ======
 if selected_project == "Todos os projetos":
