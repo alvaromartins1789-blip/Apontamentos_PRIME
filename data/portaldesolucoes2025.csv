@@ -1,0 +1,279 @@
+﻿Data;Horário de fim;Horário de início;Horas;Descrição;Tarefa;Projeto;Usuário
+03/02/2025;18:02:00;14:00:00;04:02:00;Reunião para estimar tempo para executar as atividades e refinamento das atividades do Epic Gen, Story Gen, Test Case Gen, Prime SV, Orquestrador e Device Farm;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+04/02/2025;17:00:00;13:08:00;03:52:00;"Criação de tarefas Prime Store
+Reunião de refinamento Prime Store
+Primeira Sprint Prime Store";;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+04/02/2025;18:02:00;13:00:00;05:02:00;Validação da utilização de MFA no Prime Store com amplify;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+05/02/2025;15:00:00;13:00:00;02:00:00;Desenho de Modelo de Entidade e Relacionamento do Prime Store para considerar a utilização de PostgreSQL e fazer o controle do nível de acesso dos usuários.;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+05/02/2025;12:00:00;09:00:00;03:00:00;Desenho de Modelo de Entidade e Relacionamento do Prime Store para considerar a utilização de PostgreSQL e fazer o controle do nível de acesso dos usuários.;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+07/02/2025;18:17:00;13:01:00;05:16:00;Implementação do PostgreSQL e alterações nos endpoints de consumo dos tenants, informações dos tenants, apps relacionados aos tenants e verificação do nível de acesso;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+07/02/2025;12:00:00;09:16:00;02:44:00;Implementação do PostgreSQL e alterações nos endpoints de consumo dos tenants, informações dos tenants, apps relacionados aos tenants e verificação do nível de acesso;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+10/02/2025;14:30:00;13:01:00;01:29:00;Correções e melhorias apontadas pelo Miguel para realizar a integração com a nova interface do frontend;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+10/02/2025;12:00:00;09:00:00;03:00:00;Refinanamento de endpoints e configuração do postgresql no ambiente de desenvolvimento;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+14/02/2025;18:05:00;16:30:00;01:35:00;Verificando publicação da nova versão do portal e revisando PR;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+14/02/2025;;;01:00:00;Revisão de PRs;;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+14/02/2025;14:40:00;14:12:00;00:28:00;Repasse e alinhamento de demandas - Miguel e Werliton - Portal Soluções;;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+18/02/2025;;;01:00:00;FINEP;;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+18/02/2025;;;02:00:00;Remoção do orquestrador do portal de soluções;;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+19/02/2025;;;01:00:00;Alinhamentos com Higor;;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+20/02/2025;;;01:00:00;Alinhamento FINEP com Felipe + Estimativas;;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+21/02/2025;;;01:00:00;Apresentação do ChatSync;;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+26/02/2025;12:50:00;11:35:00;01:15:00;"Entendimento das atividades
+Revisão backlog - Portal de Soluções";;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+26/02/2025;18:31:00;14:18:00;04:13:00;"Criação de atividades e estimativas - frontend - Miguel´
+
+Análise de lib python para conversão de doc em markdown
+
+Alinhamento c/ Pedro sobre atividades";;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+27/02/2025;10:30:00;08:07:00;02:23:00;Levantamento de Atividades para o Backend no portal de soluções;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+28/02/2025;09:30:00;08:17:00;01:13:00;Levantamento e revisão de atividades a serem feitas baseado no que foi levantado para o Frontend;;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+03/03/2025;15:30:00;13:30:00;02:00:00;Planning, estimativas e alinhamentos;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+04/03/2025;14:00:00;09:00:00;05:00:00;SPIKE – Biblioteca de edição de markdownEstudo de viabilidade para criação de um editor markdown/html para criação de documentação;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+04/03/2025;17:00:00;14:00:00;03:00:00;"SPIKE – Biblioteca de renderização de markdown
+
+Estudo de viabilidade para renderizar documentos em markdown/html";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+05/03/2025;12:00:00;08:00:00;04:00:00;"FRONTEND – Implementação de interfaceAjustes nos cards de produtos:
+
+- Botão para acessar produto
+- Botão para detalhes do produto e documentações";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+05/03/2025;17:00:00;13:00:00;04:00:00;"FRONTEND – Implementação de interfaceCriação da página de detalhes do produto:
+
+- Informações sobre o produto
+- Preview do produto (imagem ou vídeo)
+- Links de documentações do produto (Ex: Doc técnica, Doc comercial)";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+06/03/2025;08:55:00;08:25:00;00:30:00;Desenho do diagrama de entidade relacionamento das alterações no portal de soluções;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+07/03/2025;22:54:00;18:54:00;04:00:00;"Atualização da base de dados de HML
+Atualização dos grupos de usuários no Cognito
+Testes em HML";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+07/03/2025;09:03:00;07:33:00;01:30:00;Alterações no diagrama de entidade e relacionamento do novo portal de soluções;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+07/03/2025;12:00:00;08:00:00;04:00:00;"FRONTEND – Implementação de interface
+
+Criação do Painel administrativo:
+
+- Exibir métricas de total de produtos, workspaces e total de usuários
+- Listar todos os produtos
+- Controlar acesso para admin";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+10/03/2025;16:37:00;16:07:00;00:30:00;Apoio ao Miguel com Portal;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+11/03/2025;17:00:00;09:00:00;08:00:00;"FRONTEND – Tela de cadastro de documentos
+
+Criação de tela para cadastro de documentação de produtos (Editor texto em markdown)";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+11/03/2025;16:41:00;15:41:00;01:00:00;Apresentação Dashboar Gerenciamento Sprints;[Inovação] - Gestão;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+12/03/2025;11:00:00;09:30:00;01:30:00;"Daily
+Bate-papo PoCs nos clientes";[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+12/03/2025;12:01:00;09:00:00;03:01:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+12/03/2025;18:00:00;13:02:00;04:58:00;Iniciei os estudos para realizar uma atividade referente a hover no portal;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+13/03/2025;12:02:00;09:00:00;03:02:00;Me contextualizei sobre as mudanças feitas com o portal;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+13/03/2025;18:05:00;13:02:00;05:03:00;Iniciei a atividade do hover;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+14/03/2025;12:08:00;09:00:00;03:08:00;Segui com a atividade referente ao hover;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+14/03/2025;18:01:00;13:08:00;04:53:00;Foi solicitado que eu parasse com a atividade e aguardasse outra demanda;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+17/03/2025;09:20:00;08:59:00;00:21:00;daily;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;PEDRO HENRIQUE DA SILVA PEREIRA
+17/03/2025;12:13:00;09:01:00;03:12:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+17/03/2025;19:00:00;13:13:00;05:47:00;Após uma call para alinhamento da demanda iniciei a criação da página de documentação dos produtos;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+18/03/2025;12:10:00;09:00:00;03:10:00;Segui com a criação da página para documentação dos produtos;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+18/03/2025;19:00:00;13:10:00;05:50:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+19/03/2025;10:00:00;08:00:00;02:00:00;FRONTEND - Atualização do logotipo do portal de soluções;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+19/03/2025;12:00:00;09:00:00;03:00:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+19/03/2025;19:00:00;13:00:00;06:00:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+20/03/2025;12:02:00;09:00:00;03:02:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+20/03/2025;18:21:00;13:02:00;05:19:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+21/03/2025;12:07:00;09:00:00;03:07:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+21/03/2025;19:00:00;13:08:00;05:52:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+24/03/2025;14:00:00;08:00:00;06:00:00;FFRONTEND - Criação de navegação entre tópicos na tela de documetações;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+24/03/2025;14:04:00;13:34:00;00:30:00;Análise de problema de acesso e carregamento de produtos no portal;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+24/03/2025;12:20:00;09:00:00;03:20:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+24/03/2025;19:17:00;13:20:00;05:57:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+25/03/2025;12:08:00;09:00:00;03:08:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+25/03/2025;19:00:00;13:08:00;05:52:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+26/03/2025;;;03:00:00;Verificação de itens para subir em prod com Miguel;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+26/03/2025;15:00:00;11:45:00;03:15:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+26/03/2025;19:00:00;16:00:00;03:00:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+27/03/2025;16:00:00;08:00:00;08:00:00;"FRONTEND - Realização de teste e deploy para ambiente de produção
+
+Realizando testes e implantação do portal de soluções (nova estrutura) para ambientes de dev, hml e produção";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+27/03/2025;14:13:00;12:13:00;02:00:00;Ajustes no Jira, alteração de Categorias;[Inovação] - Gestão;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+27/03/2025;;;01:00:00;Agenda com AWS para falar de aspectos de infraestrutura;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+27/03/2025;;;04:00:00;Ajustes pipeline + subida do portal + ajustes Logos + script para atualizacao de nomes do usuario baseada no AD.;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+27/03/2025;12:08:00;09:00:00;03:08:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+27/03/2025;19:01:00;13:08:00;05:53:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+28/03/2025;;;01:00:00;Alinhamentos backlog;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+28/03/2025;;;01:00:00;Revisão de código para adição de filtros de workspaces;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+28/03/2025;;;05:27:00;Planning: revisão e adição de demandas;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+28/03/2025;10:27:00;09:25:00;01:02:00;Planning Portal;[Inovação] - Gestão;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+28/03/2025;12:24:00;09:00:00;03:24:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+28/03/2025;19:41:00;13:24:00;06:17:00;;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MATEUS GABRIEL SILVA GOMES
+31/03/2025;12:30:00;11:30:00;01:00:00;FRONTEND - Atualização de acesso adminImplementando lógica de acesso para administradores do portal;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+31/03/2025;11:30:00;08:30:00;03:00:00;Realização da planning sobre o projeto, definindo próximas tarefas e estimativas;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+31/03/2025;17:00:00;13:00:00;04:00:00;"FRONTEND - Adicionando filtros
+
+Implementação de filtro por status de excução de uma task (em execução, concluido, falhou)";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+31/03/2025;;;00:30:00;Repasse Miguel Bug no fluxo de Cadastro de usuário;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+31/03/2025;;;03:00:00;Planning: revisão e adição de demandas;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+31/03/2025;10:54:00;08:54:00;02:00:00;Planning portal - Tânia e Miguel;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+01/04/2025;13:00:00;09:00:00;04:00:00;FRONTEND - Ajuste no fluxo de cadastroCorreção de bug no fluxo de cadastro do portal;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+01/04/2025;;;04:02:00;Apoio ao Miguel com problemas no Portal;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+01/04/2025;;;03:00:00;Spike para utilização do markdown em documentos de produtos;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+01/04/2025;;;01:00:00;Revisão do FastAPI;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+01/04/2025;;;02:30:00;Configuração e conexão do banco de dados e de acesso ao Cognito;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+01/04/2025;;;01:12:00;Padrronização de testes unitários;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+02/04/2025;12:00:00;09:00:00;03:00:00;"FRONTEND - Implementação de validação de senha forte
+
+Implementando validação nos campos de cadastro de senha do portal";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+02/04/2025;17:00:00;13:00:00;04:00:00;FRONTEND – Desenvolvimento do Painel Administrativo Principal;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+02/04/2025;;;08:00:00;Rotas do Portal de Solução: gerenciamento de produtos. Desenvolver listagem de produtos.;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+03/04/2025;17:00:00;13:00:00;04:00:00;"FRONTEND - Criação das telas de gerenciamento
+
+Ciração das telas de gerenciamento e implementação das tabelas de listagem de produtos, workspaces e usuários";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+03/04/2025;;;08:04:00;Rotas do Portal de Solução: gerenciamento de produtos. Desenvolver listagem de produtos e testes unitários.;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+04/04/2025;;;08:39:00;Rotas do Portal de Solução: gerenciamento de produtos e testes unitários. ;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+07/04/2025;12:02:00;10:57:00;01:05:00;Análise do Jira da Sprint atual de Produtos;[Inovação] - Gestão;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+07/04/2025;14:00:00;11:30:00;02:30:00;FRONTEND - Implementação do layout do Painel Administrativo;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+07/04/2025;14:30:00;14:00:00;00:30:00;FRONTEND - Adicionar menu de módulos;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+07/04/2025;;;07:59:00;Rotas do Portal de Solução: CRUD de Produtos;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+08/04/2025;12:00:00;08:00:00;04:00:00;"FRONTEND - Implementação de funcionalidadeTela de gerenciamento de Produtos- Formulário de para adicionar produtos
+- Opção para adicionar/editar produto
+- Componente de upload de imagem
+- Adicionar opção para gerenciamento de Documentos de um Produto";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+08/04/2025;15:00:00;13:00:00;02:00:00;"FRONTEND - Implementação de funcionalidadeTela de gerenciamento de workspaces- Formulário de para adicionar workspace
+- Opção para adicionar/editar workspace
+- Componente de upload de imagem
+- Adicionar opção para gerenciamento de permissão de usuários";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+08/04/2025;17:00:00;15:00:00;02:00:00;"FRONTEND - Implementação de funcionalidade
+
+Tela de gerenciamento de usuários
+
+- Formulário de para adicionar usuário
+- Opção para adicionar/editar usuário";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+08/04/2025;;;08:00:00;Rotas do Portal de Solução: CRUD de Produtos;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+09/04/2025;12:00:00;08:00:00;04:00:00;"FRONTEND - Implementação de funcionalidade
+
+Tela de gerenciamento de documentos:
+
+- Listagem de documentos
+- Formulário de para adicionar documento
+- Criação do componente de editar texto (retorna HTML)
+- Opção para adicionar/editar documento";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+09/04/2025;17:00:00;13:00:00;04:00:00;"FRONTEND - Implementação de funcionalidadeTela de gerenciamento de usuários no workspace:- Listagem de usuários do workspace
+- Componente de pesquisar e adicionar usuário ao workspace
+- Opção de remover usuário do workspace ";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+09/04/2025;09:38:00;01:45:00;07:53:00;Rotas do Portal de Solução: CRUD de Documentos;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+10/04/2025;;;07:37:00;Rotas do Portal de Solução: CRUD de Documentos. ;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+10/04/2025;;;00:30:00;Alinhamento de tarefas e prioridade;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+10/04/2025;10:58:00;08:58:00;02:00:00;Revisão quadro da Sprint no Jira;[Inovação] - Gestão;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+10/04/2025;11:33:00;11:03:00;00:30:00;Apoio ao José - problema de acesso ao Portal;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+11/04/2025;11:30:00;10:30:00;01:00:00;Alinhamento do projeto e tarefas;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+11/04/2025;09:00:00;08:30:00;00:30:00;Alinhamento de tarefas e prioridade;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+11/04/2025;;;00:45:00;Repasse de atividades do Orquestrador;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+11/04/2025;;;00:25:00;Revisão de PR;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+11/04/2025;;;06:40:00;Rotas do Portal de Solução: Ajustes no CRUD de Produtos e Documentos. Deploy para ambiente de desenvolvimento.;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+11/04/2025;11:02:00;10:14:00;00:48:00;Apoio técnico Tânia ;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+14/04/2025;12:20:00;10:30:00;01:50:00;PLANNING - Iniciando nova sprint e realizando alinhamento de tarefas do projeto.;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+14/04/2025;;;02:00:00;Planning;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+14/04/2025;;;06:01:00;Portal de Solução: Correções e ajustes no CRUD de Produtos e Documentos;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+14/04/2025;12:37:00;09:20:00;03:17:00;Sprint 2 - Produtos;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+15/04/2025;12:30:00;08:00:00;04:30:00;"FRONTEND - Integração com backend
+
+Implementação do CRUD de produtos";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+15/04/2025;16:30:00;13:30:00;03:00:00;"FRONTEND - Integração com backend
+
+
+Implementando o CRUD de documentos";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+15/04/2025;;;03:00:00;Portal de Solução: Correções e ajustes no CRUD de Produtos e Documentos;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+15/04/2025;;;04:51:00;Portal de Solução: Implementação do Docling;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+16/04/2025;12:00:00;08:00:00;04:00:00;"FRONTEND - Integração com backend
+
+Finalizando implementação do CRUD de documentos";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+16/04/2025;17:00:00;13:00:00;04:00:00;"FRONTEND - Integração com backend
+
+
+Realizando integração com backend para bsucar informações de um produto e renderizar na tela de documentação.- Título do documento- Conteúdo do documento
+- Links de outras documetações- Extração de tópicos baseado no markdown- Otimização do editor de documentos";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+16/04/2025;;;08:00:00;Portal de Solução: Implementação do Docling;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+17/04/2025;17:00:00;10:00:00;07:00:00;"FRONTEND - Integração com backend [Finalizado]
+
+Realizando integração com backend para bsucar informações de um produto e renderizar na tela de documentação.
+
+- Título do documento
+- Conteúdo do documento
+- Links de outras documetações
+- Extração de tópicos baseado no markdown
+- Otimização do editor de documentos";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+17/04/2025;;;01:00:00;Revisão de PRs;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+28/04/2025;;;04:10:00;Portal de Solução: Implementação do Docling;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+28/04/2025;;;04:00:00;Investigação e solução de bugs;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+29/04/2025;;;07:46:00;Portal de Solução: Implementação do Docling;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+30/04/2025;;;07:38:00;Portal de Solução: Implementação do Docling;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+02/05/2025;;;08:09:00;Portal de Solução: Implementação do Docling;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+05/05/2025;17:00:00;14:00:00;03:00:00;FRONTEND - Implementação upload de documentos (WIP);[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+05/05/2025;;;07:59:00;Portal de Solução: Implementação do DoclingAtuação com conversão de imagens;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+06/05/2025;;;07:51:00;Correções em rotas de documentosImplementação de rotas de tenant/workspaces;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+06/05/2025;17:00:00;09:00:00;08:00:00;FRONTEND - Implementação upload de documentos (Finalizado);[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+07/05/2025;;;02:56:00;Apoio para deploy em produção dos projetos Azul e Too SegurosPair-programming para correção em integração com back-endInvestigação de bug no armazenamento de cookies;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+07/05/2025;;;05:00:00;Apoio para deploy em produção dos projetos Azul e Too SegurosImplementação de rotas de tenant/workspacesTestes de rota de upload de arquivos em ambiente de desenvolvimento;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+07/05/2025;;;00:10:00;Checkpoint: área administrativa do Portal de Soluções;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+07/05/2025;;;02:00:00;Apoio para subir rotas da área administrativa do Portal;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+07/05/2025;16:02:00;10:32:00;05:30:00;"Realizar PR da Tânia - Portal
+Apoio na atualização do ambiente de prod
+Apoio na publicação em ambiente de dev - ajustes no gateway";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+08/05/2025;;;01:00:00;Apoio na criação de acessos para equipe comercial;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+08/05/2025;;;07:33:00;Implementação de rotas de tenant/workspaces;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+09/05/2025;;;08:00:00;Implementação de rotas de tenant/workspacesImplementação de rotas de usuários;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+12/05/2025;;;07:59:00;Implementação de rotas de usuários;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+12/05/2025;16:13:00;12:13:00;04:00:00;"Apoio a Tânia - entendimento do backend e das bases de dados
+Análise do funcionamento do backend do portal";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+13/05/2025;;;08:43:00;Implementação de rotas de usuáriosResolução de bug na pipeline de desenvolvimento;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+13/05/2025;16:14:00;15:14:00;01:00:00;Apoio a Tânia - Análise dos bancos híbridos e lógica de Tenants;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+14/05/2025;;;04:00:00;Correção a partir de PRDeploy de rotas para ambiente de desenvolvimento;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+14/05/2025;16:17:00;14:37:00;01:40:00;"Apoio a Tânia - Cognito
+PR do backend";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+19/05/2025;;;04:00:00;Testes em ambiente de desenvolvimentoAnálise e correção de bugs;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+20/05/2025;;;04:00:00;Apoio Tânia;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+20/05/2025;;;07:51:00;Testes no ambiente de desenvolvimentoCorreção de build na pipeline de deploy para ambiente de desenvolvimentoAnálise e correções de bugs na API;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+21/05/2025;;;08:21:00;Apoio mudanças Portal;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+21/05/2025;21:00:00;09:00:00;12:00:00;FRONTEND - Realizando integração com backend (WIP);[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+21/05/2025;;;08:47:00;"Testes no ambiente de desenvolvimento
+Análise de bugs junto ao front-endCorreções de bugs na API ";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+22/05/2025;17:00:00;09:00:00;08:00:00;" FRONTEND - Realizando integração com backend (Finalizado)Workspace:- Adicionar e editar workspaces- Gerenciar produtos de um workspace- Gerenciar membros de um workspace
+- Excluir workspaceUsuários:
+- Adicionar e editar usuários";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+22/05/2025;;;08:07:00;Apoio correção de bugs no Portal;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+22/05/2025;;;08:02:00;"Testes no ambiente de desenvolvimento
+Análise de bugs junto ao front-end
+Correções de bugs na API ";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+23/05/2025;;;02:00:00;Apoio a Tânia e Miguel com ajustes e deploy;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+23/05/2025;;;07:56:00;"Testes no ambiente de desenvolvimento
+Ajustes no banco de dados de desenvolvimento";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+04/06/2025;;;02:00:00;Apoio Miguel com listagem de documentos públicos no portal;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+04/06/2025;17:00:00;14:00:00;03:00:00;FRONTEND - Ajuste de visualização de documentos públicos e privados;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+05/06/2025;17:00:00;09:00:00;08:00:00;FRONTEND - Implatação e publicação do portal de soluções com novas funcionalidades;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+05/06/2025;18:32:00;17:32:00;01:00:00;Apoio Tânia - Portal;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+06/06/2025;15:30:00;13:00:00;02:30:00;FRONTEND - Implementação de imagem e videos nas documentações;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+06/06/2025;18:33:00;17:33:00;01:00:00;Daily inovação;[Inovação] - Reunião;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+09/06/2025;;;02:00:00;Resolução de bug de status de documentação;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+11/06/2025;11:05:00;08:34:00;02:31:00;"Apoio Tânia - backend portal e PR
+Entendimento Werliton - Cognito e autenticação";[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+16/06/2025;12:00:00;10:00:00;02:00:00;FRONTEND - Correção de bug;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+17/06/2025;;;02:07:00;Apoio Miguel com problemas na listagem de documentos e com o carregamento do Prime Bench;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+17/06/2025;18:00:00;16:00:00;02:00:00;"FRONTEND - Correção de bug
+
+- Visualização de documentos";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+17/06/2025;16:00:00;13:00:00;03:00:00;FRONTEND - Correção de bug (AWS Cognito)Redirect ao acessar Prime Bench;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+17/06/2025;12:00:00;09:00:00;03:00:00;FRONTEND - Integração com Azure DevOps;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+18/06/2025;17:00:00;09:00:00;08:00:00;"FRONTEND - Integração com Azure DevOpsListando projetos do Azure
+Listando projetos do JiraExportação CSV para casos de testes";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+18/06/2025;11:09:00;10:09:00;01:00:00;Apoio Tânia - backend portal;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TALES FERNANDO SEGUNDO
+26/06/2025;18:00:00;15:00:00;03:00:00;"FRONTEND - Correção de bugs
+
+Formulário de criação de produtos ocorrendo erros";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+27/06/2025;;;01:24:00;Apoio troubleshooting cognito. Erro ao checar se tenant existia.;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;WERLITON GOMES BARROSO
+30/06/2025;;;03:43:00;Correção de schemas para rota de criação de produtos;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+30/06/2025;18:30:00;17:00:00;01:30:00;"FRONTEND - Correção de bugsAlteração no forms de produtos:
+- tags
+- categorias
+
+Padronização de valores de categorias e deixando tags como opcionais";[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+01/07/2025;11:00:00;08:00:00;03:00:00;FRONTEND - Correção de bugsImplementando descrição de produtos com limite de 255 no frontendObs: Database não suporta textos com mais de 255 caracteres;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+07/08/2025;;;01:30:00;Correção de bug no Portal de Soluções;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+13/08/2025;;;02:44:00;Identificação e correção de erros de busca de usuários;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+14/08/2025;;;03:47:00;Implementar melhorias nos mecanismos de busca;[Inovação] - Back-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES
+14/08/2025;18:00:00;15:00:00;03:00:00;Implementação de revalidação de refresh token (WIP);[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;MIGUEL HENRIQUE LEMES DA SILVA
+28/08/2025;;;01:00:00;Testes em ambiente de produção pra kick-off;[Inovação] - Front-end;PRIME - Inovação - Piloto - Portal de Soluções;TANIA DE ARRUDA FERNANDES

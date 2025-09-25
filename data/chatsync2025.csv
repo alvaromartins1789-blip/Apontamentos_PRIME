@@ -1,0 +1,111 @@
+﻿Data;Horário de fim;Horário de início;Horas;Descrição;Tarefa;Projeto;Usuário
+06/03/2025;12:00:00;08:00:00;04:00:00;Coleta de acessos do ambiente para o desenvolvimento da integração.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+07/03/2025;12:00:00;08:00:00;04:00:00;Validação dos acessos do ambiente para o desenvolvimento.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+10/03/2025;12:00:00;08:00:00;04:00:00;Resolução de incongruências referente aos acessos dos ambientes.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+11/03/2025;;;08:00:00;Solicitação e validação dos acessos ao Charm (Solman).;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+11/03/2025;12:00:00;08:00:00;04:00:00;Estudo e criação de objetos necessários para a integração da ferramenta.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+12/03/2025;;;08:00:00;Configuração do Integration Suite.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+12/03/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento dos objetos para a integração da ferramenta.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+13/03/2025;20:00:00;08:00:00;12:00:00;"Desenvolvimento do iFlow para realizar ações nos workflows do S4.
+
+Onboarding presencial (4 Horas)";[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+13/03/2025;12:00:00;08:00:00;04:00:00;Integração dos objetos criados no ambiente de desenvolvimento, adaptando-os em relação ao padrão de desenvolvimento do cliente.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+14/03/2025;;;08:00:00;Desenvolvimento do iFlow para realizar ações nos workflows do S4.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+14/03/2025;12:00:00;08:00:00;04:00:00;Seguindo com o desenvolvimento dos objetos integrados ao ambiente.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+17/03/2025;04:00:00;00:00:00;04:00:00;Desenvolvimento do iFlow para consultar workflows pendentes no S4.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+17/03/2025;;;04:00:00;"Iniciado o mapeamento dos workflows no S4.
+Processos:- Requisição de compra
+- Pedido de compra
+- Contrato";[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+17/03/2025;14:00:00;08:00:00;06:00:00;Reparação de problemas com o acesso ao ambiente de desenvolvimento e ambiente de qualidade.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+18/03/2025;15:00:00;08:00:00;07:00:00;Reparação de problemas de lógica dos objetos presentes no desenvolvimento.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+18/03/2025;08:00:00;00:00:00;08:00:00;"Mapeamento do processo de requisição de compra.
+Os cenários passados pelo cliente estavam com problema no disparo do workflow, foi necessário acionar eles para que revisassem as configurações do ambiente.
+
+Após o problema resolvido, foi dado continuidade ao mapeamento do processo.";[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+19/03/2025;17:00:00;09:00:00;08:00:00;Criação de serviços no abap rap;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+19/03/2025;;;08:00:00;Mapeamento do processo de requisição de compra.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+20/03/2025;;;08:00:00;Mapeamento do processo de requisição de compra.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+20/03/2025;17:00:00;09:00:00;08:00:00;Definindo exposição e realização de testes em cima de actions;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+21/03/2025;15:00:00;09:00:00;06:00:00;Definição das chamadas de actions pelos serviços no abap rap;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+21/03/2025;;;08:00:00;Em conjunto com o cliente foi feito uma análise de alguns erros nos Workflows de requisição de compras;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+24/03/2025;12:00:00;08:00:00;04:00:00;Definição das chamadas de actions pelos serviços no abap rap;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+24/03/2025;;;08:00:00;Mapeamento do processo de contrato.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+25/03/2025;;;06:00:00;Alinhamento sobre mudanças na arquitetura da solução devido aos problemas técnicos no ambiente do cliente;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+25/03/2025;17:00:00;09:00:00;08:00:00;Adaptação dos métodos de classes e da implementação de actions;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+26/03/2025;;;08:00:00;Desenvolvimento ABAP RAP para aprovação de requisição de compra.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+26/03/2025;17:00:00;09:00:00;08:00:00;Adaptação dos métodos de classes e da implementação de actions;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+27/03/2025;22:00:00;08:00:00;14:00:00;#NOME?;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+27/03/2025;17:00:00;09:00:00;08:00:00;Validação e coleta de dados enviados pelo usuário;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+28/03/2025;;;08:00:00;"- Desenvolvimento ABAP RAP para aprovação de contrato.
+- Desenvolvimento do iFlow para chamar os serviços de aprovação e consulta. 
+- Desenvolvimento da rota de logs de erro (API ChatSync)";[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+28/03/2025;16:24:00;08:24:00;08:00:00;Criando retorno das actions criadas no serviço do rap;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+31/03/2025;;;06:30:00;Desenvolvimento ABAP RAP, correção de erro na chamada das BAPI's e retorno da Action do OData.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+31/03/2025;16:25:00;08:25:00;08:00:00;Criando retorno das actions criadas no serviço do rap;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+01/04/2025;16:27:00;10:27:00;06:00:00;Corrigindo erros dentro do RAP;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+01/04/2025;;;04:00:00;Desenvolvimento ABAP RAP, ajustes serviço de pedido de compra.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+01/04/2025;;;04:00:00;Desenvolvimento do iFlow para chamar os serviços de aprovação e consulta. ;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+02/04/2025;16:28:00;10:28:00;06:00:00;Corrigindo erros dentro do RAP;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+02/04/2025;;;04:00:00;Desenvolvimento do iFlow para chamar os serviços de aprovação e consulta. ;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+02/04/2025;;;04:00:00;Desenvolvimento ABAP RAP, ajustes serviço de pedido de compra.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+03/04/2025;18:43:00;09:43:00;09:00:00;Criando validações nos métodos de acceptDecision e rejectDecision;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+03/04/2025;;;02:00:00;"Desenvolvimento ABAP RAP, ajustes no método de rejeição de requisição de compra
+.";[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+03/04/2025;;;06:00:00;Desenvolvimento do iFlow para chamar os serviços de aprovação e consulta. ;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+04/04/2025;;;08:00:00;Desenvolvimento do iFlow para chamar os serviços de aprovação e consulta. ;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+04/04/2025;16:29:00;08:29:00;08:00:00;Fornecendo suporte as funcionalidades da integração do ChatSync na Dexco;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+06/04/2025;;;10:00:00;Correção de problema no deploy dos iFlows. Foi necessário refazer a maior parte das integrações.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+07/04/2025;;;04:00:00;Configuração do iFlow do processo de pedido de compra.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+07/04/2025;;;06:00:00;Botpress - Desenvolvimento dos workflows de conversa.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+07/04/2025;16:33:00;08:33:00;08:00:00;Fornecendo suporte as funcionalidades da integração do ChatSync na Dexco;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+07/04/2025;10:30:00;08:00:00;02:30:00;FRONTEND - Implementação de funcionalidadeImplementar Página de logs e monitoramento - Portal do Cliente;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;MIGUEL HENRIQUE LEMES DA SILVA
+07/04/2025;11:30:00;10:30:00;01:00:00;FRONTEND - Implementação de funcionalidadeAdicionar campo de tipo de notificação em usuários;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;MIGUEL HENRIQUE LEMES DA SILVA
+08/04/2025;16:33:00;08:33:00;08:00:00;Fornecendo suporte as funcionalidades, juntamente com testes sobre integração do ChatSync na Dexco;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+08/04/2025;;;01:00:00;Apresentação da PoC para o cliente.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+09/04/2025;16:34:00;08:34:00;08:00:00;Fornecendo suporte as funcionalidades, juntamente com testes sobre integração do ChatSync na Dexco;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+09/04/2025;;;04:00:00;Estimativa para os ajustes solicitados pelo cliente e proposta da primeira versão da PoC.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+10/04/2025;;;08:00:00;Implementação de API's standard para consultar detalhes dos workitems.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+10/04/2025;10:45:00;02:45:00;08:00:00;Estudo no desenvolvimento da documentação relacionada a integração do ChatSync;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+11/04/2025;;;08:00:00;Implementação de API's standard para consultar detalhes dos workitems.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+11/04/2025;10:45:00;02:45:00;08:00:00;Estudo no desenvolvimento da documentação relacionada a integração do ChatSync;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+14/04/2025;;;08:00:00;Correções na rejeição dos documentos;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+14/04/2025;10:46:00;02:46:00;08:00:00;Fornecendo suporte as funcionalidades, juntamente com testes sobre integração do ChatSync na Dexco;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+15/04/2025;;;08:00:00;"Configuração dos templates de mensagem na API de notificação.
+Ajuste para exibir detalhes dos workflows na conversa.";[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+15/04/2025;10:46:00;02:46:00;08:00:00;Fornecendo suporte as funcionalidades e ajustes de acordo com o workbook fornecido pelo cliente;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+16/04/2025;10:47:00;02:47:00;08:00:00;Fornecendo suporte as funcionalidades e ajustes de acordo com o workbook fornecido pelo cliente;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+17/04/2025;10:47:00;02:47:00;08:00:00;Estudo no desenvolvimento da documentação relacionada a integração do ChatSync;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+22/04/2025;10:47:00;02:47:00;08:00:00;Estudo no desenvolvimento da documentação relacionada a integração do ChatSync;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+22/04/2025;;;08:00:00;Adicionar chamada do serviço de Business Partner nos iFlows.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+23/04/2025;10:47:00;02:47:00;08:00:00;Estudo no desenvolvimento da documentação relacionada a integração do ChatSync;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+23/04/2025;;;08:00:00;Unificação dos itens de requisição de compra no iFlow ProcessManager.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+24/04/2025;;;08:00:00;Unificação dos itens de requisição de compra nos iFlows de notificação.;[Inovação] - BTP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+01/05/2025;09:25:00;01:25:00;08:00:00;Documentação de testes e correção de erros;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+02/05/2025;09:25:00;01:25:00;08:00:00;Documentação de testes e correção de erros;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+05/05/2025;09:25:00;01:25:00;08:00:00;Documentação de testes e correção de erros;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+05/05/2025;;;08:00:00;Documentação para transporte produtivo.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+06/05/2025;10:26:00;01:26:00;09:00:00;Documentação de testes e correção de erros;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+07/05/2025;;;08:00:00;Mapeamento do perfil de segurança.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+07/05/2025;16:35:00;08:35:00;08:00:00;Documentação de testes e correção de erros;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+08/05/2025;16:35:00;08:35:00;08:00:00;Resolução de problemas voltados ao acesso do ambiente de qualidade Dexco;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+09/05/2025;16:36:00;08:36:00;08:00:00;Resolução de problemas voltados ao acesso do ambiente de qualidade Dexco;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+12/05/2025;16:36:00;08:36:00;08:00:00;Resolução de problemas voltados ao acesso do ambiente de qualidade Dexco;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+13/05/2025;16:37:00;08:37:00;08:00:00;Finalização da documentação e realização de testes finais para a entrega do projeto no ambiente de produção;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+14/05/2025;16:37:00;08:37:00;08:00:00;Finalização da documentação e realização de testes finais para a entrega do projeto no ambiente de produção;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;VINICIUS DE ANDRADE COSTA
+19/05/2025;;;01:00:00;Defesa GMUD para o transporte produtivo;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+20/05/2025;13:00:00;11:00:00;02:00:00;Transporte da solução para produção.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+22/05/2025;;;01:00:00;Testes em produção - requisição de compra.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+23/05/2025;;;01:00:00;Alinhamento com o cliente sobre problemas no processo deles e próximos passos.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+04/06/2025;;;02:00:00;Cliente reportou problemas na aprovação de RC via MyInbox e alegou que o ChatSync estava impactando, foi feita uma análise para evidenciar que o ChatSync não teve relação com o problema.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+05/06/2025;;;01:55:00;Cliente reportou problemas na aprovação de RC via MyInbox e alegou que o ChatSync estava impactando, foi feita uma análise para evidenciar que o ChatSync não teve relação com o problema.;[Inovação] - ABAP;PRIME - Inovação - Projeto - ChatSync Dexco;SERGIO HENRIQUE MELGES CARLOS PONTES
+20/08/2025;17:00:00;09:00:00;08:00:00;"FRONTEND - Atualização do portal de clientesTarefas:- Deletar um grupo de autorização (BUGFIX)
+- Importar usuários a partir de um documento CSV (Feature)
+- Formatação de textos dos relatorios de logs e erros (Feature)";[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;MIGUEL HENRIQUE LEMES DA SILVA
+21/08/2025;14:00:00;09:00:00;05:00:00;"BACKEND - Correção e melhoriasTarefas:- Deletar um grupo de autorização (BUGFIX)
+- Resetar autenticação de 2 fatores de um customer (Feature)";[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;MIGUEL HENRIQUE LEMES DA SILVA
+21/08/2025;15:00:00;14:00:00;01:00:00;FRONTEND - Atualização do portal de clientesTarefas:- Opção de desativar autenticação de 2 fatores pela tela de configurações (Feature);[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;MIGUEL HENRIQUE LEMES DA SILVA
+22/08/2025;17:00:00;09:00:00;08:00:00;"BACKEND - Correção e melhorias (WIP)
+
+Tarefas:
+- [Notificações] Verificar se o usuário possui a função no grupo de autorização para então receber as notificações corretas. (Feature)";[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Projeto - ChatSync Dexco;MIGUEL HENRIQUE LEMES DA SILVA

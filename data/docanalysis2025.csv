@@ -1,0 +1,41 @@
+﻿Data;Horário de fim;Horário de início;Horas;Descrição;Tarefa;Projeto;Usuário
+11/04/2025;16:42:00;16:00:00;00:42:00;Alinhamento sobre a POC Too seguros com o Werliton. ;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+14/04/2025;;;06:51:00;Preparação da Apresentação Too Seguros;[Inovação] - Reunião;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+14/04/2025;12:00:00;11:30:00;00:30:00;Inicio do design do protótipo das telas da POC Too seguros. Iniciei trazendo a identidade visual da empresa para o protótipo.;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+14/04/2025;15:00:00;13:00:00;02:00:00;Inicio do design do protótipo das telas da POC Too seguros. ;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+14/04/2025;14:05:00;14:00:00;00:05:00;Prévia Alinhamento Too Seguros;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+14/04/2025;15:43:00;15:00:00;00:43:00;Alinhamentos Too Seguros. Nessa atividade mostrei ao Higor as telas criadas e debatemos junto ao Werliton as melhorias a serem feitas.;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+15/04/2025;;;03:00:00;Preparação da Apresentação Too Seguros;[Inovação] - Reunião;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+15/04/2025;;;01:00:00;Agenda com AWS para falar da PoC;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+15/04/2025;;;03:23:00;Alinhamento com Jhenifer e Miguel sobre design;[Inovação] - Reunião;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+15/04/2025;12:00:00;08:00:00;04:00:00;Novas telas e ajustes no protótipo antes da apresentação ao cliente.;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+15/04/2025;15:30:00;15:00:00;00:30:00;Prévia Apresentação TOO SEGUROS com cliente;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+15/04/2025;11:06:00;10:36:00;00:30:00;POC Too Seguros - Entendimento;[Inovação] - Reunião;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;TALES FERNANDO SEGUNDO
+17/04/2025;;;01:00:00;Apresentação para o cliente;[Inovação] - Reunião;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+17/04/2025;;;03:15:00;Refinamento backlog com Miguel;[Inovação] - Reunião;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+18/04/2025;;;04:23:00;Explorando o bedrock data automation;;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+21/04/2025;;;09:52:00;Criação de atvs de backend e início do desenvolvimento da api;[Inovação] - Back-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+22/04/2025;09:00:00;08:00:00;01:00:00;Ajustes no protótipo e funcionalidades solicitadas pelo cliente.;[Inovação] - Design;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;JHENIFER MAIARA DE SOUZA TEIXEIRA
+22/04/2025;11:00:00;09:00:00;02:00:00;FRONTEND - Implementação da Sidebar;[Inovação] - Front-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;MIGUEL HENRIQUE LEMES DA SILVA
+22/04/2025;17:00:00;11:00:00;06:00:00;FRONTEND - Análise e correção de bugsLentidão no carregamento de logs;[Inovação] - Front-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;MIGUEL HENRIQUE LEMES DA SILVA
+23/04/2025;14:00:00;08:00:00;06:00:00;"FRONTEND - Desenvolvimento das interfaces de listagem de documentos e detalhes do documento
+
+- Listagem de documentos
+- Tabela com extração de dados do documento
+- Layout de exibição de listagem de extração e imagem do documento";[Inovação] - Front-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;MIGUEL HENRIQUE LEMES DA SILVA
+23/04/2025;17:00:00;15:00:00;02:00:00;FRONTEND - Implementação de autenticação via Cognito - AWS Amplify;[Inovação] - Front-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;MIGUEL HENRIQUE LEMES DA SILVA
+28/04/2025;18:00:00;09:00:00;09:00:00;"FRONTEND - Integração com backend
+
+Implementação:- listagem de documentos
+- listagem de detalhes de documentos
+- Visualização dos documentos
+- Sincronização de paginação entre fields e imagem do documento";[Inovação] - Front-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;MIGUEL HENRIQUE LEMES DA SILVA
+28/04/2025;;;08:26:00;Dev e adaptações;[Inovação] - Back-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+29/04/2025;17:00:00;09:00:00;08:00:00;"FRONTEND - Integração com backend
+
+Implementações:
+- atualizar status dos campos (aprovar/rejeitar)
+- atualizar campo/valor dos campos extraidos- exibir métricas: acurácia da ia, total de campos extraídos, aprovados, pendentes, rejeitados";[Inovação] - Front-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;MIGUEL HENRIQUE LEMES DA SILVA
+29/04/2025;;;09:58:00;Adaptações poc too seguros;[Inovação] - Back-end;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+30/04/2025;;;06:00:00;Testes com Miguel;[Inovação] - Reunião;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO
+07/05/2025;;;02:49:00;Subir poc no ambiente do portal de produção;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - DocAnalysis Too Seguros;WERLITON GOMES BARROSO

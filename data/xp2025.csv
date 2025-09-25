@@ -1,0 +1,92 @@
+﻿Data;Horário de fim;Horário de início;Horas;Descrição;Tarefa;Projeto;Usuário
+01/05/2025;12:00:00;08:00:00;04:00:00;Tratamento do retorno da API;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+01/05/2025;15:00:00;13:00:00;02:00:00;Tratamento de retorno da API;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+02/05/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento da API;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+02/05/2025;15:00:00;13:00:00;02:00:00;Testes com o Gamma para PPT;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+02/05/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento da API;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+02/05/2025;15:00:00;13:00:00;02:00:00;Desenvolvimento da API;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+02/05/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento da API;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+02/05/2025;15:00:00;13:00:00;02:00:00;Teste de agentes e prompts;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+05/05/2025;12:00:00;08:00:00;04:00:00;Tratamento de erros no back-end;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+05/05/2025;15:00:00;13:00:00;02:00:00;Testes com Gamma para geração de PPT;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+06/05/2025;12:00:00;08:00:00;04:00:00;Ajustes no backend para melhorar performace;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+06/05/2025;15:00:00;13:00:00;02:00:00;Criação de função para categorias;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+07/05/2025;12:00:00;08:00:00;04:00:00;Teste de prompts ;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+08/05/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento de modelo de frontend com lovable e ajustes no retorno;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+08/05/2025;15:00:00;13:00:00;02:00:00;Pesquisa de API's para substituir SerpAPi;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+08/05/2025;17:00:00;09:00:00;08:00:00;FRONTEND - Implementação do projeto- Ajuste no formulário de nova análise- Ajustes e melhorias no dashboard;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+09/05/2025;10:00:00;08:00:00;02:00:00;Teste da API e geração de ppt;[Inovação] - QA;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+09/05/2025;11:00:00;10:00:00;01:00:00;Front base;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+09/05/2025;15:00:00;13:00:00;02:00:00;Alinhamento dos resultados e ajustes;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+09/05/2025;17:00:00;09:00:00;08:00:00;FRONTEND - Implementação do projeto- Ajustes e melhorias no dashboard- Adicionando novos gráficos e métricas;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+12/05/2025;12:00:00;08:00:00;04:00:00;Ajustes na função de categorias e no retorno, nas chamadas em paralelo e na paginação das reviews;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+12/05/2025;15:00:00;13:00:00;02:00:00;Procurando e testando opções para scrap na Google Play;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+12/05/2025;16:00:00;09:00:00;07:00:00;FRONTEND - Implementação de melhorias propostas- Ajustes de disposição de gráficos e informações- Adicionando novos gráficos e métricas;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+13/05/2025;12:00:00;08:00:00;04:00:00;Ajustando e testando opcoes free para substituir API SerpApi ;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+13/05/2025;15:00:00;13:00:00;02:00:00;Finalização das novas funções grátis para substituir a SerpApi no scrap de reviews;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+13/05/2025;12:00:00;09:00:00;03:00:00;FRONTEND - Implementação de autenticação pelo - AWS cognito;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+14/05/2025;16:00:00;13:00:00;03:00:00;FRONTEND - Integração com backendImplementação com a rota para análise entre cliente e concorrente;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+14/05/2025;18:00:00;16:30:00;01:30:00;Inicio das primeiras telas do protótipo ;[Inovação] - Design;PRIME - Inovação - Piloto - PoC XP Investimentos;JHENIFER MAIARA DE SOUZA TEIXEIRA
+15/05/2025;;;04:00:00;#NOME?;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;SERGIO HENRIQUE MELGES CARLOS PONTES
+15/05/2025;;;03:00:00;Treinamento e comparação de modelos (LinearSVC, RandomForest, LogisticRegression) para análise de sentimentos, como alternativa ao uso de LLM's de mercado. Dataset utilizado com + de 10k reviews.;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;SERGIO HENRIQUE MELGES CARLOS PONTES
+15/05/2025;17:00:00;09:00:00;08:00:00;"FRONTEND - Integração com backend
+
+- Mapeamento do retorno do backend- Criando seção de visão geralFunções que consumo o json recebido do backend e alimenta:- Gráfico de evolução de avaliações negativas- Gráfico de barras de reviews negativas do cliente vs concorrente- Pontos fortes e pontos fracos- Comparação de sentimento por semana e Comparação por Aspectos";[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+15/05/2025;13:00:00;09:00:00;04:00:00;Novas telas e ajustes conforme alinhado com Rafael e Miguel. Foram adicionados novos gráficos e telas para mostrar os insights, reviews e outros dados do cliente e comparativos que mostrassem uma análise com o concorrente.;[Inovação] - Design;PRIME - Inovação - Piloto - PoC XP Investimentos;JHENIFER MAIARA DE SOUZA TEIXEIRA
+15/05/2025;18:00:00;16:00:00;02:00:00;Continuação da criação de novas telas e ajustes;[Inovação] - Design;PRIME - Inovação - Piloto - PoC XP Investimentos;JHENIFER MAIARA DE SOUZA TEIXEIRA
+16/05/2025;17:00:00;09:00:00;08:00:00;"FRONTEND - Integração com backend
+
+- Criando as seções relacionadas a Cliente, Insights e Reviews
+
+Funções que consume o json recebido do backend e alimenta:
+- Card de avaliação média e porcentagem da média de rating
+- Gráfico de pizza de avaliações negativas, positivas e neutras
+- Gráfico de barras de reviews de avaliações positivas e negativas do cliente vs concorrente
+- Pontos fortes e pontos fracos do cliente em cada fonte- Top 5 problemas mais mencionados por categorias
+- Componente de listagem de reviews com filtros e paginação- Componente de Sugestões Prioritárias de Melhoria";[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+16/05/2025;12:00:00;09:00:00;03:00:00;Ajustes nos gráficos;[Inovação] - Design;PRIME - Inovação - Piloto - PoC XP Investimentos;JHENIFER MAIARA DE SOUZA TEIXEIRA
+19/05/2025;13:00:00;10:00:00;03:00:00;FRONTEND - Realizando testes no fluxo de cenários- Testando o processo de análise- Correção de alguns bugs quanto o retorno da api (IA muda o nome do campo);[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+20/05/2025;;;01:00:00;Entrega e alinhamento dos próximos passos;[Inovação] - Reunião;PRIME - Inovação - Piloto - PoC XP Investimentos;SERGIO HENRIQUE MELGES CARLOS PONTES
+22/05/2025;11:30:00;08:00:00;03:30:00;Ajustes e testes ;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+22/05/2025;19:19:00;18:04:00;01:15:00;Resolução de bugs na exibição dos gráficos;[Inovação] - Reunião;PRIME - Inovação - Piloto - PoC XP Investimentos;SERGIO HENRIQUE MELGES CARLOS PONTES
+22/05/2025;19:20:00;17:00:00;02:20:00;FRONTEND - Ajustando frontend com base na nova estruturade retorno do backend;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;MIGUEL HENRIQUE LEMES DA SILVA
+02/06/2025;12:00:00;08:00:00;04:00:00;Ajustes no codigo;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+02/06/2025;17:00:00;13:00:00;04:00:00;Ajustes no codigo;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+03/06/2025;12:00:00;08:00:00;04:00:00;Ajustes no codigo;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+03/06/2025;17:00:00;13:00:00;04:00:00;Ajustes no codigo;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+04/06/2025;12:00:00;08:00:00;04:00:00;Ajustes no codigo;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+04/06/2025;17:00:00;13:00:00;04:00:00;Ajustes no codigo;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+05/06/2025;12:00:00;08:00:00;04:00:00;Integração;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+05/06/2025;17:00:00;13:00:00;04:00:00;Integracao com frontend;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+06/06/2025;12:00:00;08:00:00;04:00:00;integracao com front;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+06/06/2025;17:00:00;13:00:00;04:00:00;Integracao com front;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+09/06/2025;12:00:00;08:00:00;04:00:00;Integracao com front;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+09/06/2025;17:00:00;13:00:00;04:00:00;Integracao com front;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+10/06/2025;12:00:00;08:00:00;04:00:00;Ajuste nas funcoes dos agentes;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+10/06/2025;17:00:00;13:10:00;03:50:00;Ajuste nas funcoes dos agentes;[Inovação] - Front-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+11/06/2025;12:00:00;08:00:00;04:00:00;Ajuste nas funcoes dos agentes;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+11/06/2025;17:00:00;13:00:00;04:00:00;Ajuste nas funcoes dos agentes;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+12/06/2025;12:00:00;08:00:00;04:00:00;Ajuste nas funcoes dos agentes;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+12/06/2025;17:00:00;13:00:00;04:00:00;Ajuste nas funcoes dos agentes;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+13/06/2025;12:00:00;08:00:00;04:00:00;Ajuste nas funcoes dos agentes;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+13/06/2025;17:00:00;13:00:00;04:00:00;Ajuste nas funcoes dos agentes;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+16/06/2025;12:00:00;08:00:00;04:00:00;Estudo e desenvolvimento em N8N;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+16/06/2025;17:00:00;13:00:00;04:00:00;Estudo e desenvolvimento em N8N;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+17/06/2025;12:00:00;08:00:00;04:00:00;Estudo e desenvolvimento em N8N;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+17/06/2025;17:00:00;13:00:00;04:00:00;Estudo e desenvolvimento em N8N;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+18/06/2025;12:00:00;08:00:00;04:00:00;Estudo e desenvolvimento em N8N;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+18/06/2025;17:00:00;13:00:00;04:00:00;Estudo e desenvolvimento em N8N;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+20/06/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento em N8N;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+20/06/2025;17:00:00;13:00:00;04:00:00;Desenvolvimento em N8N;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+23/06/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+23/06/2025;17:00:00;13:00:00;04:00:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+24/06/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+24/06/2025;17:00:00;13:00:00;04:00:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+25/06/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+25/06/2025;17:00:00;13:00:00;04:00:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+26/06/2025;12:00:00;08:00:00;04:00:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+26/06/2025;17:00:00;13:10:00;03:50:00;Desenvolvimento em N8N para automacao de pesquisas e postagem no instagram;[Inovação] - Back-end;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+27/06/2025;12:00:00;08:00:00;04:00:00;Apresentacao da PoC;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+27/06/2025;17:00:00;13:00:00;04:00:00;Estudo de tecnologias;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+30/06/2025;16:00:00;08:00:00;08:00:00;Estudo e testes de novas ferramentas ;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA
+04/07/2025;12:00:00;08:00:00;04:00:00;Ajuste no bitdefender da prime e aprovação do conteúdo comercial produzido pelo marketing.;[Inovação] - Reunião;PRIME - Inovação - Piloto - PoC XP Investimentos;RAFAEL JEFERSON GIARETTA

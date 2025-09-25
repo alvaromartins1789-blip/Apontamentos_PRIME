@@ -1,0 +1,103 @@
+﻿Data;Horário de fim;Horário de início;Horas;Descrição;Tarefa;Projeto;Usuário
+10/02/2025;10:11:00;09:11:00;01:00:00;Organização e análise documentação - POC Azul;;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+11/02/2025;;;11:38:00;Desenvolvimento do RPA;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+11/02/2025;10:05:00;05:05:00;05:00:00;"Alinhamento com equipe e passagem de conhecimento
+
+Cadastro de tarefas e atividades";;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+12/02/2025;;;06:50:00;Desenvolvimento do RPA;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+13/02/2025;;;08:00:00;Desenvolvimento do RPA;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+14/02/2025;;;06:20:00;Desenvolvimento do RPA;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+17/02/2025;;;07:00:00;Desenvolvimento do RPA;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+17/02/2025;11:10:00;09:10:00;02:00:00;"Organização backlog - POC Azul
+Alinhamento com Sérgio";;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+18/02/2025;;;04:00:00;Desenvolvimento da API;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+19/02/2025;12:25:00;10:35:00;01:50:00;Escrita backlog - PoC Azul;;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+19/02/2025;15:00:00;14:30:00;00:30:00;Planning -  Sprint - PoC Azul;;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+19/02/2025;;;06:16:00;Planning Sprint 2 + Desenvolvimento;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+20/02/2025;;;02:33:00;Desenvolvimento backend;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+21/02/2025;;;05:27:00;Status do desenvolvimento, construção pipe de DEV do backend e desenvolvimento no RPA (calculo pre cotacao);;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+24/02/2025;;;09:50:00;Desenvolvimento do calculo de cotação;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+25/02/2025;;;04:00:00;Modificação da estrutura do banco de dados no back e rpa para separar cotação do e-mail em si.;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+26/02/2025;;;08:58:00;Funcionalidade de termometro;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+27/02/2025;;;01:46:00;Status do desenvolvimento, Planning da sprint 3 e tira dúvidas com Sérgio, Tales e Miguel;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+27/02/2025;;;04:55:00;Desenvolvimento do Calculo de disponibilidade de voos, Prompt para identificar reserva e endpoint Listagem de clientes;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+27/02/2025;12:45:00;09:45:00;03:00:00;Planning Sprint 3 - Azul;;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+28/02/2025;;;05:36:00;Desenvolvimento do Calculo de disponibilidade de voos, Prompt para identificar reserva e endpoint Listagem de clientes;;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+03/03/2025;;;07:03:00;Ajustes no RPA;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+03/03/2025;17:00:00;09:00:00;08:00:00;"Realizando integração com BackendServiços implementados: 
+- listagem de pré-cotações 
+- listagem de clientes
+- listagem de tarifas
+- atualização de status para uma pré-cotação";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+04/03/2025;;;07:40:00;Ajustes no RPA + Desenvolvimento de Endpoint de métricas;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+06/03/2025;;;08:00:00;Desenvolvimento do envio de e-mail;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+06/03/2025;06:00:00;00:00:00;06:00:00;Implementação da solução SAP AI Launchpad e SAP AI Core na PoC da Azul Cargo Express.;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - Cargo Express AI;SERGIO HENRIQUE MELGES CARLOS PONTES
+06/03/2025;12:00:00;08:00:00;04:00:00;FRONTEND – Realizando integração com Backend;[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+06/03/2025;17:00:00;13:00:00;04:00:00;FRONTEND – Realizando testes de integraçãoTestando fluxos de envio de cotação por e-mail e atualização de status;[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+07/03/2025;;;07:24:00;Desenvolvimento do envio de e-mail;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+07/03/2025;;;08:00:00;Implementação da solução SAP AI Launchpad e SAP AI Core na PoC da Azul Cargo Express.;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - Cargo Express AI;SERGIO HENRIQUE MELGES CARLOS PONTES
+08/03/2025;;;02:00:00;Implementação da solução SAP AI Launchpad e SAP AI Core na PoC da Azul Cargo Express.;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - Cargo Express AI;SERGIO HENRIQUE MELGES CARLOS PONTES
+09/03/2025;;;06:00:00;Implementação da solução SAP AI Launchpad e SAP AI Core na PoC da Azul Cargo Express.;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - Cargo Express AI;SERGIO HENRIQUE MELGES CARLOS PONTES
+10/03/2025;;;04:00:00;Ajustes no modelo do SAP AI Core para que as respostas da LLM obedeçam determinado padrão.;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - Cargo Express AI;SERGIO HENRIQUE MELGES CARLOS PONTES
+10/03/2025;;;06:45:00;Desenvolvimento do envio de e-mail;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+11/03/2025;;;07:05:00;Desenvolvimento do envio de e-mail;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+12/03/2025;;;08:27:00;Desenvolvimento do envio de e-mail;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+12/03/2025;12:00:00;08:00:00;04:00:00;FRONTEND – Deploy da aplicação para o ambiente de DEV;[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+12/03/2025;17:00:00;13:00:00;04:00:00;"FRONTEND – Realizando testes de integração
+
+Testando fluxos de envio de cotação por e-mail e atualização de status";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+13/03/2025;12:15:00;09:01:00;03:14:00;"Preparação para reunião e alinhamento com equipe
+Apresentação PoC
+
+Reunião para ajustes e estimativas
+
+Passagem de conhecimento backend";[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+13/03/2025;18:10:00;16:00:00;02:10:00;"Análise funcionamento e lógica backend
+
+Implementação de filtro e paginação de quotas";[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+13/03/2025;15:00:00;13:45:00;01:15:00;Setup e configuração backend e RPA;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+13/03/2025;;;03:44:00;Alinhamentos da poc + repasse para o Tales de atvs;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+13/03/2025;12:00:00;10:00:00;02:00:00;Check-point e alinhamento do projeto;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+13/03/2025;17:00:00;13:00:00;04:00:00;"FRONTEND – Ajustes de interface
+
+- Exibir novos campos na tabela de cotações
+- Editar desconto ou valor total diretamente";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+14/03/2025;12:00:00;08:00:00;04:00:00;"FRONTEND – Ajustes de interface
+
+- Exibir progresso de relacionamento do cliente com base no score";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+14/03/2025;16:32:00;12:21:00;04:11:00;"Alinhamento com Paschoal e Jhenifer
+Alinhamento sobre backend com Pedro
+Revisão da documentação";[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+17/03/2025;;;01:00:00;Apresentação dos ajustes solicitados pelo Higor;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+17/03/2025;;;06:57:00;Testes de integração;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+17/03/2025;17:00:00;09:00:00;08:00:00;"FRONTEND – Ajustes de interface
+
+Adicionando filtros na tabela de cotações:- Filtrar por nome do cliente
+- Filtrar por status da cotação
+- Filtrar por origem/destino
+- Filtrar por data";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+17/03/2025;16:29:00;15:29:00;01:00:00;Checkpoint POC;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+18/03/2025;;;03:00:00;Criação da apresentação;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+18/03/2025;;;04:04:00;Testes de integração + Criação de enpoints para listagem de origens e destinos possíveis para aplicação nos filtros do frontend;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+18/03/2025;17:00:00;09:00:00;08:00:00;"FRONTEND – Ajustes de interface
+
+- Adicionando páginação nas tabelas de cotações e clientes
+- Adicionando filtro por nome do cliente
+- Realização de testes de integração";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+19/03/2025;;;01:00:00;Apresentação da PoC;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+19/03/2025;;;02:00:00;Ajustes finais apresentação da PoC;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+19/03/2025;;;05:40:00;Testes de integração;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+19/03/2025;16:00:00;15:00:00;01:00:00;Apresentação da PoC para o time da Azul;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+19/03/2025;20:30:00;16:00:00;04:30:00;"FRONTEND - Implementação do AWS Amplify
+
+Integrando o AWS Amplify no portal da Azul para segurança de acesso";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+19/03/2025;14:00:00;10:00:00;04:00:00;"FRONTEND - Realização de testes de integração
+
+Validação do fluxo total da aplicação";[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+28/03/2025;14:00:00;10:00:00;04:00:00;FRONTEND - Realização de testeTestando envio e cadastro de pré-cotação, bug na geração de cotação;[Inovação] - Front-end;PRIME - Inovação - Piloto - Cargo Express AI;MIGUEL HENRIQUE LEMES DA SILVA
+31/03/2025;;;05:00:00;Análise de bug + gravação demo para jhenifer;[Inovação] - Back-end;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+04/04/2025;12:00:00;11:30:00;00:30:00;Lições aprendidas POC Azul;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;TALES FERNANDO SEGUNDO
+02/05/2025;;;05:00:00;Estimativas para virar projeto;[Inovação] - Gestão;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+07/05/2025;;;02:49:00;Subir poc no ambiente do portal de produção;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+13/05/2025;;;04:00:00;Preparativos apresentação Azul;[Inovação] - Infra & DevOps;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO
+13/05/2025;;;01:00:00;Apresentação Azul;[Inovação] - Reunião;PRIME - Inovação - Piloto - Cargo Express AI;WERLITON GOMES BARROSO

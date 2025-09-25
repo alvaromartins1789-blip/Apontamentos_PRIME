@@ -1,0 +1,21 @@
+﻿Data;Horário de fim;Horário de início;Horas;Descrição;Tarefa;Projeto;Usuário
+27/03/2025;;;02:00:00;PoC SAP com Databricks - solicitação Higor e Marcio;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - SAP & Databricks;FABIO SUIYAMA PINHEIRO
+27/03/2025;10:57:00;08:57:00;02:00:00;PoC SAP com Databricks - solicitação Higor e Marcio;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - SAP & Databricks;GUSTAVO DE ALMEIDA SA
+28/03/2025;08:49:00;06:49:00;02:00:00;PoC SAP com Databricks - solicitação Higor e Marcio;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - SAP & Databricks;FABIO SUIYAMA PINHEIRO
+28/03/2025;;;02:00:00;"Análise e pré-processamento dos dados fornecidos pela SAP.
+
+Estudo de viabilidade com conta trial do Databricks";[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - SAP & Databricks;SERGIO HENRIQUE MELGES CARLOS PONTES
+28/03/2025;13:39:00;11:40:00;01:59:00;PoC SAP com Databricks - solicitação Higor e Marcio;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - SAP & Databricks;GUSTAVO DE ALMEIDA SA
+31/03/2025;11:00:00;08:00:00;03:00:00;Testes com regressão linear no databricks;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - SAP & Databricks;RAFAEL JEFERSON GIARETTA
+31/03/2025;;;03:00:00;Definição de modelo a ser utilizado e treinamento. Foi utilizado um modelo de random forest classifier;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - SAP & Databricks;SERGIO HENRIQUE MELGES CARLOS PONTES
+31/03/2025;;;00:30:00;Apresentação do modelo treinado e direcionamento sobre próximos passos da PoC.;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - SAP & Databricks;SERGIO HENRIQUE MELGES CARLOS PONTES
+31/03/2025;08:44:00;07:44:00;01:00:00;PoC SAP com Databricks - solicitação Higor e Marcio;[Inovação] - Reunião;PRIME - Inovação - Piloto - SAP & Databricks;FABIO SUIYAMA PINHEIRO
+31/03/2025;13:42:00;12:42:00;01:00:00;PoC SAP com Databricks - solicitação Higor e Marcio;[Inovação] - Reunião;PRIME - Inovação - Piloto - SAP & Databricks;GUSTAVO DE ALMEIDA SA
+01/04/2025;12:00:00;08:00:00;04:00:00;Configurando dataSphere;[Inovação] - BTP;PRIME - Inovação - Piloto - SAP & Databricks;RAFAEL JEFERSON GIARETTA
+01/04/2025;12:00:00;08:00:00;04:00:00;Integrando dataSphere e configurando modelo de treinamento no databrics;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - SAP & Databricks;RAFAEL JEFERSON GIARETTA
+01/04/2025;16:00:00;13:00:00;03:00:00;Elaboração com a equipe no SAC da SAP dos resultados;[Inovação] - BTP;PRIME - Inovação - Piloto - SAP & Databricks;RAFAEL JEFERSON GIARETTA
+01/04/2025;18:00:00;16:00:00;02:00:00;Edicao do video final da POC;[Inovação] - Estudo Viabilidade & Alinhamento;PRIME - Inovação - Piloto - SAP & Databricks;RAFAEL JEFERSON GIARETTA
+01/04/2025;16:27:00;11:27:00;05:00:00;Desenvolvendo POC Databricks x SAC x Datasphere;[Inovação] - BTP;PRIME - Inovação - Piloto - SAP & Databricks;VINICIUS DE ANDRADE COSTA
+01/04/2025;03:00:00;00:00:00;03:00:00;Configuração do Datasphere dentro do SAP BTP;[Inovação] - BTP;PRIME - Inovação - Piloto - SAP & Databricks;SERGIO HENRIQUE MELGES CARLOS PONTES
+02/04/2025;16:27:00;14:27:00;02:00:00;Desenvolvendo POC Databricks x SAC x Datasphere;[Inovação] - BTP;PRIME - Inovação - Piloto - SAP & Databricks;VINICIUS DE ANDRADE COSTA
+02/04/2025;;;03:00:00;Ajustes no código de processamento dos dados e criação do CSV final com previsões de estoque.;[Inovação] - Inteligência Artificial;PRIME - Inovação - Piloto - SAP & Databricks;SERGIO HENRIQUE MELGES CARLOS PONTES

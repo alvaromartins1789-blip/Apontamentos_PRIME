@@ -1,0 +1,57 @@
+﻿Data;"Horário de fim";"Horário de início";Horas;Descrição;Tarefa;Projeto;Usuário
+2025-09-03;;;02:00:00;"Entendimento de contexto para apresentação para Natura";"[Inovação] - Reunião";"Prime - Inovação - GenStudio - Natura";"TANIA DE ARRUDA FERNANDES"
+2025-09-03;;;01:10:00;"Estimativas, estudo de viabilidade e revisão do atual Gen Studio";"[Inovação] - Estudo Viabilidade & Alinhamento";"Prime - Inovação - GenStudio - Natura";"TANIA DE ARRUDA FERNANDES"
+2025-09-03;15:02:00;08:02:00;07:00:00;"Alinhamento Apresentação Natura
+Entendimento demanda NaturaPOC Natura";"[Inovação] - Reunião";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-04;15:04:00;06:03:00;09:01:00;"Avaliação e implementação de agente para leitura de documentação com IA
+
+Elaboração da arquitetura do GenStudio para módulo SAP
+
+Leitura de diagrama BPMN com IA";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-05;;;01:30:00;"Apoio com ajustes e alinhamento de funcionamento do Gen Studio AI";"[Inovação] - Estudo Viabilidade & Alinhamento";"Prime - Inovação - GenStudio - Natura";"TANIA DE ARRUDA FERNANDES"
+2025-09-05;15:06:00;06:25:00;08:41:00;"Avaliação e implementação de agente para leitura de documentação e fluxograma BPMN com IAImplementação de agente de testes SAP";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-08;15:07:00;06:35:00;08:32:00;"Avaliação e implementação de agente para leitura de documentação e fluxograma BPMN com IA
+
+Implementação de serviço para execução do agente SAP
+
+Implementação e ajustes de agente de testes SAPAvaliação dos resultados gerados pela IA";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-09;15:08:00;03:59:00;11:09:00;"Alinhamento com Miguel sobre tarefas e alterações no front-end
+
+Implementação de serviço para execução do agente SAP
+
+Ajustes no agente de testes SAP
+
+Avaliação dos resultados gerados pela IA";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-10;15:11:00;03:40:00;11:31:00;"Testes e avaliação dos resultados gerados pela IA
+
+Testes e avaliação da interface do GenStudio
+
+Alterações e ajustes no N8N para chamada dos novos serviços
+
+Ajustes nos agentes de IA SAP";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-10;;;07:30:00;"Pesquisa, testes e desenvolvimento de benchmarkDocumentação de testes do GenStudioApoio para ajustes de front-end e back-end/n8n para apresentação";"[Inovação] - Estudo Viabilidade & Alinhamento";"Prime - Inovação - GenStudio - Natura";"TANIA DE ARRUDA FERNANDES"
+2025-09-10;;;02:00:00;"Apoio para ajustes e resolução de conflitosResolução de bug em página de documentação";"[Inovação] - Front-end";"Prime - Inovação - GenStudio - Natura";"TANIA DE ARRUDA FERNANDES"
+2025-09-11;15:11:00;11:46:00;03:25:00;"Apresentação Natura";"[Inovação] - Reunião";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-12;15:13:00;07:36:00;07:37:00;"Ajustes nos agentes, mudança de prompt, correções no serviço de leitura de documentaçãoGeração de avaliação de casos de teste com base nos documentos da Natura";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-12;;;01:00:00;"Alinhamento sobre features para Natura e Seguros Unimed";"[Inovação] - Estudo Viabilidade & Alinhamento";"Prime - Inovação - GenStudio - Natura";"TANIA DE ARRUDA FERNANDES"
+2025-09-15;15:16:00;09:08:00;06:08:00;"Entendimento de funcionamento do Agno para times de agente.Desenvolvimento de time de agentes para geração de casos de teste melhores com base na documentação";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-16;15:17:00;06:50:00;08:27:00;"Entendimento de funcionamento do Agno para times de agente.
+Desenvolvimento de time de agentes para geração de casos de teste melhores com base na documentação
+Configuração da base de conhecimento
+Refinamento de prompt dos agentes e avaliação dos resultados";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-17;15:18:00;03:30:00;11:48:00;"Ajustes no time de agentes para geração de casos de teste SAP
+
+Refinamento de prompt dos agentes e avaliação dos resultados
+
+Geração de casos de teste para o fluxo 030 da Natura
+
+Avaliação dos resultados";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
+2025-09-18;15:20:00;09:22:00;05:58:00;"Geração de casos de teste para o fluxo 030 da Natura
+
+Avaliação dos resultados
+
+Refinamento de prompt dos agentes
+
+Alinhamentos sobre scripts de automação gerados a partir do plano de testes
+
+Configuração VPN Natura";"[Inovação] - Back-end";"Prime - Inovação - GenStudio - Natura";"TALES FERNANDO SEGUNDO"
