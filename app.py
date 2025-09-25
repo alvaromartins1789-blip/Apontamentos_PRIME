@@ -1,8 +1,6 @@
-# streamlit_app.py (versão estilizada atualizada — balões na ordem solicitada + custo real logo abaixo)
-import os
+# streamlit_app.py (versão estilizada atualizada — inicia em branco e pede seleção)
 from pathlib import Path
-import calendar
-from datetime import datetime, date
+from datetime import date
 import pandas as pd
 import numpy as np
 import streamlit as st
@@ -13,29 +11,18 @@ st.set_page_config(
     page_icon="./images/simbolo-favico.png",
     layout="wide"
 )
+
 # ====== CSS ======
 st.markdown(
     """
     <style>
-    [data-testid="stSidebar"] {
-        width: 520px;
-    }
-    /* Limita a lista de projetos para não estourar a sidebar e permitir scroll */
+    [data-testid="stSidebar"] { width: 520px; }
     .sidebar-project-list { max-height: 56vh; overflow: auto; padding-right: 6px; }
-    .proj-btn {
-        display:block;
-        text-align: left;
-        padding: 6px 8px;
-        border-radius:6px;
-        margin-bottom:4px;
-        background: transparent;
-        border: none;
-    }
-    .proj-btn:hover { background-color: #f2f4f7; }
-    .proj-selected { font-weight:700; color: #0f172a; }
-    hr.sidebar-hr { border: none; border-top: 1px solid #e6e9ee; margin:6px 0; }
+    .proj-btn { display:block; text-align:left; padding:6px 8px; border-radius:6px; margin-bottom:4px; background:transparent; border:none; }
+    .proj-btn:hover { background-color:#f2f4f7; }
+    .proj-selected { font-weight:700; color:#0f172a; }
+    hr.sidebar-hr { border:none; border-top:1px solid #e6e9ee; margin:6px 0; }
 
-    /* Card grande para métricas (balões) */
     .metric-card-large {
         padding: 1.0rem 1.25rem;
         border-radius: 14px;
@@ -46,34 +33,14 @@ st.markdown(
         width: 100%;
         min-height: 78px;
     }
-    .metric-card-large h3 {
-        margin: 0 0 6px 0;
-        font-size: 16px;
-        color: #0f172a;
-    }
-    .metric-card-large .value {
-        font-size: 20px;
-        font-weight: 700;
-        margin: 0;
-        color: #0f172a;
-    }
-    .metric-card-large .sub {
-        margin-top:6px;
-        font-size: 12px;
-        color: #667085;
-    }
+    .metric-card-large h3 { margin:0 0 6px 0; font-size:16px; color:#0f172a; }
+    .metric-card-large .value { font-size:20px; font-weight:700; margin:0; color:#0f172a; }
+    .metric-card-large .sub { margin-top:6px; font-size:12px; color:#667085; }
 
-    /* Evita seleção em azul do texto */
-    .no-select {
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-    }
+    .no-select { -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none; }
 
-    /* Pequena margem entre colunas em telas muito pequenas */
     @media (max-width: 600px) {
-        .metric-card-large { padding: 0.8rem; min-height: 68px; }
+        .metric-card-large { padding:0.8rem; min-height:68px; }
     }
     </style>
     """,
@@ -188,6 +155,18 @@ def project_month_projection(dfc_month: pd.DataFrame, month_str: str):
         return 0.0
     return dfc_month["Custo"].sum()
 
+def placeholder_metric(titulo, sub="Selecione um projeto e um período."):
+    st.markdown(
+        f"""
+        <div class="metric-card-large no-select">
+            <h3>{titulo}</h3>
+            <p class="value">--/--</p>
+            <div class="sub">{sub}</div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
 # ====== Carregar projetos ======
 csv_files = find_csv_files(DATA_DIR)
 if not csv_files:
@@ -206,7 +185,7 @@ for p in csv_files:
 
 project_names = sorted(list(project_name_to_path_map.keys()))
 
-# ====== Sidebar melhorada: busca + lista com separadores ======
+# ====== Sidebar ======
 st.sidebar.header("Filtros")
 
 search_term = st.sidebar.text_input("Pesquisar projeto", value="", placeholder="Digite parte do nome (ex: GenAI)")
@@ -217,14 +196,12 @@ if st.sidebar.button("Limpar pesquisa"):
     search_term = ""
 
 term = (search_term or "").strip().lower()
-if term:
-    filtered = [p for p in project_names if term in p.lower()]
-else:
-    filtered = project_names.copy()
+filtered = [p for p in project_names if term in p.lower()] if term else project_names.copy()
 
 if "selected_project_click" not in st.session_state:
-    st.session_state["selected_project_click"] = "Todos os projetos"
+    st.session_state["selected_project_click"] = None
 
+# Botão opcional "Todos os projetos" (não é padrão)
 if st.sidebar.button("Todos os projetos"):
     st.session_state["selected_project_click"] = "Todos os projetos"
 
@@ -238,24 +215,35 @@ for i, p in enumerate(filtered):
 st.sidebar.markdown('</div>', unsafe_allow_html=True)
 
 st.sidebar.markdown("**Selecionado:**")
-st.sidebar.markdown(f"> {st.session_state['selected_project_click']}")
+sel_label = st.session_state["selected_project_click"] or "— selecione um projeto —"
+st.sidebar.markdown(f"> {sel_label}")
 
 selected_project = st.session_state["selected_project_click"]
 
 # ====== Título + Logo ======
 header_col1, header_col2 = st.columns([8, 1])
-
 with header_col1:
-    if selected_project == "Todos os projetos":
+    if not selected_project:
+        st.title("Painel de Custos — selecione um projeto")
+    elif selected_project == "Todos os projetos":
         st.title("Painel de Custos - Todos os Projetos")
     else:
         st.title(f"Painel de Custos - {selected_project}")
-
 with header_col2:
     st.image("./images/cropped-ico_primecontrol-378x378.png", width=80)
 
+# ====== Se não escolheu projeto: placeholders e stop ======
+if not selected_project:
+    col1, col2, col3, col4, col5 = st.columns(5)
+    with col1: placeholder_metric("Custo total do projeto")
+    with col2: placeholder_metric("Horas Apontadas (Período Selecionado)")
+    with col3: placeholder_metric("Custo (Período Selecionado)")
+    with col4: placeholder_metric("Orçamento (limite)")
+    with col5: placeholder_metric("Restante a gastar")
+    st.info("Escolha um projeto na barra lateral para liberar a seleção de período.")
+    st.stop()
 
-# ====== Carregar dados ======
+# ====== Carregar dados do projeto selecionado ======
 if selected_project == "Todos os projetos":
     dfs = [load_project_csv(p) for p in project_name_to_path_map.values()]
     display_df = pd.concat(dfs, ignore_index=True) if dfs else pd.DataFrame()
@@ -270,41 +258,49 @@ if display_df.empty:
 display_df = compute_costs_for_df(display_df, hourly_rates)
 available_months_sorted = get_available_months_for_df(display_df)
 
-# ====== Filtro de meses atualizado ======
-month_options = available_months_sorted  # lista somente com meses que têm lançamentos (YYYY-MM)
-select_all_months = st.sidebar.checkbox("Selecionar todos os meses", value=False)
-current_month = date.today().strftime("%Y-%m")
+# ====== Filtro de meses ======
+st.sidebar.markdown("### Período")
+if not available_months_sorted:
+    st.info("Não há meses disponíveis para este projeto.")
+    st.stop()
 
+select_all_months = st.sidebar.checkbox("Selecionar todos os meses", value=False)
 if select_all_months:
-    selected_months = month_options.copy()
+    selected_months = available_months_sorted.copy()
 else:
-    default_selection = [current_month] if current_month in month_options else (month_options.copy() if month_options else [])
     selected_months = st.sidebar.multiselect(
         "Selecione um ou mais meses",
-        options=month_options,
-        default=default_selection,
-        help="Escolha um ou mais meses (YYYY-MM). Deixe vazio para considerar todos os meses."
+        options=available_months_sorted,
+        default=[],
+        help="Obrigatório: escolha ao menos um mês.",
+        placeholder="Escolha os meses (ex.: 2025-08, 2025-09)"  # <- texto em PT
     )
 
+# Se não selecionou mês: placeholders e stop
 if not selected_months:
-    df_filtered = display_df.copy()
-    subtitle_suffix = "Todos os meses"
-else:
-    df_filtered = display_df[display_df["Data_date"].apply(group_month_str).isin(selected_months)].copy()
-    subtitle_suffix = ", ".join(selected_months)
+    st.subheader("Horas e custo — selecione um período")
+    col1, col2, col3, col4, col5 = st.columns(5)
+    with col1: placeholder_metric("Custo total do projeto", "Selecione um ou mais meses.")
+    with col2: placeholder_metric("Horas Apontadas (Período Selecionado)", "Selecione um ou mais meses.")
+    with col3: placeholder_metric("Custo (Período Selecionado)", "Selecione um ou mais meses.")
+    with col4: placeholder_metric("Orçamento (limite)", "Selecione um ou mais meses.")
+    with col5: placeholder_metric("Restante a gastar", "Selecione um ou mais meses.")
+    st.stop()
 
+# ====== Dados filtrados e título ======
+df_filtered = display_df[display_df["Data_date"].apply(group_month_str).isin(selected_months)].copy()
+subtitle_suffix = ", ".join(selected_months)
 st.subheader(f"Horas e custo — {subtitle_suffix}")
 
-# ====== Resto do código permanece igual ======
+# ====== Resumo e métricas ======
 summary = summarize_project(display_df, hourly_rates)
 total_cost_project = summary["total_cost"]
 budget_remaining = project_budget_remaining(total_cost_project)
 
-# Preparar valores usados nos balões
-cost_selected_month = df_filtered["Custo"].sum()
-total_hours_selected = df_filtered['Horas_num'].sum()
+cost_selected_period = df_filtered["Custo"].sum()
+hours_selected_period = df_filtered['Horas_num'].sum()
 
-# Balões + custo real acumulado
+# ====== Cartões ======
 col1, col2, col3, col4, col5 = st.columns(5)
 
 with col1:
@@ -323,9 +319,9 @@ with col2:
     st.markdown(
         f"""
         <div class="metric-card-large no-select">
-            <h3>Horas totais na seleção</h3>
-            <p class="value">{total_hours_selected:.2f} h</p>
-            <div class="sub">Total de horas considerando o filtro atual</div>
+            <h3>Horas Apontadas (Período Selecionado)</h3>
+            <p class="value">{hours_selected_period:.2f} h</p>
+            <div class="sub">Horas registradas no período selecionado</div>
         </div>
         """,
         unsafe_allow_html=True
@@ -335,9 +331,9 @@ with col3:
     st.markdown(
         f"""
         <div class="metric-card-large no-select">
-            <h3>Custo (seleção)</h3>
-            <p class="value">R$ {cost_selected_month:,.2f}</p>
-            <div class="sub">Custo apenas da seleção filtrada</div>
+            <h3>Custo (Período Selecionado)</h3>
+            <p class="value">R$ {cost_selected_period:,.2f}</p>
+            <div class="sub">Custo do período selecionado</div>
         </div>
         """,
         unsafe_allow_html=True
@@ -367,7 +363,7 @@ with col5:
         unsafe_allow_html=True
     )
 
-# Custo real acumulado no mês vigente
+# ====== Custo real acumulado no mês vigente ======
 today_key = date.today().strftime("%Y-%m")
 real_cost = 0.0
 if today_key in available_months_sorted:
@@ -395,7 +391,7 @@ st.markdown(
 
 st.markdown("---")
 
-# Horas e custo detalhado por usuário
+# ====== Tabela por usuário ======
 user_summary = df_filtered.groupby("Usuario_norm").agg(
     Horas_apontadas=("Horas_num", "sum"),
     Custo_total=("Custo", "sum"),
@@ -410,9 +406,15 @@ df_table = user_summary.reset_index().rename(columns={
 })
 
 # Formatação numérica
-df_table["Horas apontadas (h)"] = df_table["Horas apontadas (h)"].map(lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
-df_table["Custo total (R$)"] = df_table["Custo total (R$)"].map(lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
-df_table["Valor hora (R$)"] = df_table["Valor hora (R$)"].map(lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
+df_table["Horas apontadas (h)"] = df_table["Horas apontadas (h)"].map(
+    lambda x: f"{x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+)
+df_table["Custo total (R$)"] = df_table["Custo total (R$)"].map(
+    lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+)
+df_table["Valor hora (R$)"] = df_table["Valor hora (R$)"].map(
+    lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+)
 
 st.markdown("###  Horas e custo detalhado por usuário")
 st.dataframe(
@@ -425,15 +427,16 @@ st.dataframe(
     hide_index=True
 )
 
-# Gráfico auxiliar
+# ====== Gráfico auxiliar ======
 if not summary["cost_by_month"].empty:
     fig = px.bar(
-        summary["cost_by_month"].reset_index().rename(columns={"index":"Mês","Custo":"Custo"}),
+        summary["cost_by_month"].reset_index(),  # columns: month, Custo
         x="month",
         y="Custo",
         title="Custo por mês",
-        labels={"month":"Mês","Custo":"R$"}
+        labels={"month": "Mês", "Custo": "R$"}
     )
     st.plotly_chart(fig, use_container_width=True)
 
 st.info("Observação: Usuários não listados no mapa de salários terão rate = R$0,00.")
+
