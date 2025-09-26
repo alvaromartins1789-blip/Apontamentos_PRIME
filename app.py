@@ -429,14 +429,40 @@ st.dataframe(
 
 # ====== Gráfico auxiliar ======
 if not summary["cost_by_month"].empty:
+    # Prepara dados
+    df_cost = summary["cost_by_month"].reset_index()  # colunas: month, Custo
+    df_cost["Mes"] = df_cost["month"].astype(str)     # garante categoria, não data
+
+    # Formata em PT-BR para o hover
+    df_cost["Custo_fmt_pt"] = df_cost["Custo"].map(
+        lambda x: f"R$ {x:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+    )
+
     fig = px.bar(
-        summary["cost_by_month"].reset_index(),  # columns: month, Custo
-        x="month",
+        df_cost,
+        x="Mes",
         y="Custo",
         title="Custo por mês",
-        labels={"month": "Mês", "Custo": "R$"}
+        labels={"Mes": "Mês", "Custo": "R$"}
     )
+
+    # X categórico (sem conversão pra data)
+    fig.update_xaxes(type="category", title_text="Mês")
+    fig.update_yaxes(title_text="R$")
+
+    # Usa separadores PT-BR para qualquer número automático
+    fig.update_layout(separators=",.")  # milhar=".", decimal=","
+
+    # Hover 100% controlado com o valor já formatado
+    fig.update_traces(
+        customdata=df_cost[["Custo_fmt_pt"]],
+        hovertemplate="Mês=%{x}<br>Custo=%{customdata[0]}<extra></extra>"
+    )
+
+    # (Opcional) mostrar rótulo em cima da barra também:
+    # fig.update_traces(text=df_cost["Custo_fmt_pt"], textposition="outside")
+
     st.plotly_chart(fig, use_container_width=True)
 
-st.info("Observação: Usuários não listados no mapa de salários terão rate = R$0,00.")
 
+st.info("Observação: Usuários não listados no mapa de salários terão rate = R$0,00.")
